@@ -3,8 +3,8 @@ from twilio.rest import Client
 def msg_mom_and_dad(event=None, context=None):
 
     # get your sid and auth token from twilio
-    twilio_sid = 'ACd76ef2bf81d8f8839aedac79955f7f1c'
-    auth_token = 'f2e35f2ad8187897a8c158b0a877e0e1'
+    twilio_sid = 'ghjgjjhkhkjkhkhkhkh'
+    auth_token = 'jjhklhjgjhhghgljll'
 
     whatsapp_client = Client(twilio_sid, auth_token)
 
